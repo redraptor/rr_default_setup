@@ -1,0 +1,29 @@
+{
+	"config": [
+		{
+			"name": "",
+			"folder_name": "",
+			"repo": "",
+			"branch": "",
+			"database": {
+				"server": "",
+				"dbname": "",
+				"dbuser": "",
+				"dbpass": "",
+			} 
+		},
+		{
+			"name": "",
+			"folder_name": "",
+			"repo": "",
+			"branch": "",
+			"database": {
+				"server": "",
+				"dbname": "",
+				"dbuser": "",
+				"dbpass": "",
+			}	
+		}	
+
+	]
+}
